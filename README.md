@@ -13,7 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/waseem-qamar-b02b41183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/users/pro_qamar/seller_dashboard" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Fiverr_Logo.png" alt="Fiverr" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/users/pro_qamar/seller_dashboard" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Fiverr_Logo_09.2020.svg" alt="Fiverr" height="40" width="80" />
+</a>
 <a href="https://www.facebook.com/waseem902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
